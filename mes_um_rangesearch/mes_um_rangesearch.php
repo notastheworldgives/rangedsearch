@@ -8,9 +8,9 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
+ * @link              https://www.freelancer.com/u/picaro3535.html
  * @since             1.0.0
  * @package           Mes_um_rangesearch
- *
  * @wordpress-plugin
  * Plugin Name:       Ultimate Member - Range Search
  * Description:       Adds range search functionality to directory page of Ultimate Member plugin.
