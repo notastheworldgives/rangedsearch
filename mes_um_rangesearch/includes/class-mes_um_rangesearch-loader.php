@@ -3,7 +3,6 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://www.freelancer.com/u/picaro3535.html
  * @since      1.0.0
  *
  * @package    Mes_um_rangesearch
