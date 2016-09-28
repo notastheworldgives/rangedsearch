@@ -4,7 +4,8 @@
  * Register all actions and filters for the plugin
  *
  * @since      1.0.0
- *
+* @link       https://www.freelancer.com/u/picaro3535.html
+
  * @package    Mes_um_rangesearch
  * @subpackage Mes_um_rangesearch/includes
  */
