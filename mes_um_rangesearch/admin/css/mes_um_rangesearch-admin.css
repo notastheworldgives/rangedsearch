@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .mes-um-admin-yesno {
+    color: #fff;
+    display: block;
+    height: 26px;
+    position: relative;
+    width: 100px !important;
+}
+.mes-um-admin-yesno span.btn {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #d0d9db;
+    border-radius: 3px;
+    cursor: pointer;
+    height: 28px;
+    left: 0;
+    margin: 0;
+    padding: 0 !important;
+    position: absolute;
+    text-align: center;
+    top: -2px;
+    width: 50px;
+    z-index: 999;
+}
+.mes-um-admin-yesno span.btn.pos-1 {
+    left: 48px;
+}
+.mes-um-admin-yesno span.yes, .mes-um-admin-yesno span.no {
+    box-sizing: border-box;
+    color: #fff;
+    cursor: default;
+    float: left;
+    font-size: 14px;
+    height: 26px;
+    line-height: 24px;
+    padding: 0 0 0 10px;
+    width: 50px;
+}
+.mes-um-admin-yesno .yes {
+    background: #3ba1da none repeat scroll 0 0;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px 0 0 3px;
+}
+.mes-um-admin-yesno .no {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ddd;
+    border-radius: 0 3px 3px 0;
+    color: #222 !important;
+    float: right;
+    padding: 0 10px 0 0 !important;
+    text-align: right;
+}
+.mes-um-rs-divider{
+    margin:20px auto;
+    border-bottom:1px solid #eee;
+    width: 50%;
+}
